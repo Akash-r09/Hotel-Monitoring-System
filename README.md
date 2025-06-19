@@ -2,6 +2,8 @@
 <body>
 
   <h1>Hotel Management System</h1>
+  <h6>Author : Akash Raj</h6>
+
 
   <p>
     The Hotel Management System is a software application that computerizes the management of an entire hotel.
